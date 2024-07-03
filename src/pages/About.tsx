@@ -24,7 +24,7 @@ function About(){
                 
                 <div className="text-white text-wrap text-sm md:text-justify md:text-xl text-center lg:w-1/3 font-bold opacity-80 tracking-widest leading-7">
                     <RevealDesc custom={2}>
-                        <span> I am currently pursuing my studies at the Bandung Institute of Technology (ITB), where I am honing my skills in web development and software engineering. Beyond the digital realm, I indulge in basketball and billiards, which enhance my focus and strategic thinking. Defined by responsibility, ambition, and tenacity, I thrive on challenges and am committed to continual self-improvement. I firmly believe that "Every result stems from a process. A good process yields good results, while a flawed process leads to poor outcomes." This philosophy motivates me to strive for excellence in all my endeavors.</span>
+                        <span> I am currently pursuing my studies at the Bandung Institute of Technology (ITB), where I am honing my skills in web development and software engineering. Beyond the digital realm, I indulge in basketball and billiards, which enhance my focus and strategic thinking. Defined by responsibility, ambition, and tenacity, I thrive on challenges and am committed to continual self-improvement. I firmly believe that &quot;Every result stems from a process. A good process yields good results, while a flawed process leads to poor outcomes.&quot; This philosophy motivates me to strive for excellence in all my endeavors.</span>
                     </RevealDesc>
                 </div>
 

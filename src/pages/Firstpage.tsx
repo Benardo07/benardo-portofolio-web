@@ -7,7 +7,7 @@ function Firstpage(){
                 <h1 className="text-4xl md:text-5xl lg:text-7xl  xl:text-8xl 2xl:text-9xl font-bold text-white overflow-hidden border-r-2 border-white h-[0.9em] typewriter pb-10">
                     Hi There,
                 </h1>
-                <h1 className="text-5xl font-bold text-white">I'm <span className="text-[#00ffff]">Benardo</span></h1>
+                <h1 className="text-5xl font-bold text-white">I&apos;m <span className="text-[#00ffff]">Benardo</span></h1>
                 <button className="border-2 border-white text-white  py-3 rounded-3xl w-40 hover:bg-[#00ffff]  hover:text-black flex flex-row gap-4 items-center justify-center">about me <FaArrowAltCircleDown /></button>
                 <ul className="flex flex-row gap-6">
                     <li>
