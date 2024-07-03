@@ -14,7 +14,7 @@ function About(){
                     <div className="w-[200px] h-[300px] lg:w-[300px] lg:h-[450px] relative">
                         <Image
                             unoptimized
-                            src="/foto_itb.JPG"
+                            src="/foto_itb.jpg"
                             objectFit="cover"
                             layout="fill"
                             alt="Picture of the author"
