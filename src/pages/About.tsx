@@ -13,6 +13,7 @@ function About(){
                 <RevealTitle custom={2}>
                     <div className="w-[200px] h-[300px] lg:w-[300px] lg:h-[450px] relative">
                         <Image
+                            unoptimized
                             src="/foto_itb.JPG"
                             objectFit="cover"
                             layout="fill"
