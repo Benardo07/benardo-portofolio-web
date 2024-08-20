@@ -3,6 +3,20 @@ import RevealTitle from "@/components/animations/revealTitile";
 
 const projects = [
     {
+        image_url : "/seatudy.png",
+        project_name : "Seatudy Course Website",
+        project_desc : "Website for learning online course",
+        project_github : "https://github.com/highfive-compfest/seatudy-backend",
+        project_website : "https://seatudy-highfive.vercel.app/",
+    },
+    {
+        image_url : "/chat-app.png",
+        project_name : "Chatting Website",
+        project_desc : "Website for chatting with friends",
+        project_github : "https://github.com/Benardo07/chat-app",
+        project_website : "https://chat-app-omega-mocha.vercel.app/",
+    },
+    {
         image_url : "/web1.png",
         project_name : "Wisuda April 2024",
         project_desc : "Website for showing information for graduation event in ITBs",
